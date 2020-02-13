@@ -100,8 +100,11 @@ ul{
   line-height: 2;
   font-size: 15px;
 }
-img{
+
+.selfie{
   display: block;
+  text-align: center;
+  margin-left: 55px;
 }
 h4{
   text-align: center;
