@@ -141,3 +141,11 @@ nav ul{
   text-decoration: underline;
 
 }
+.aboutpic{
+  text-align: center;
+}
+.photoshoppic{
+  text-align: center;
+  display: inline-block;
+
+}
